@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Pay1193.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Pay1193.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\images\\Emp.gif",
+      "PackagePath": "staticwebassets\\images\\Emp.gif"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\images\\employees\\220531823_your bby gurl_ on TikTok.jfif",
+      "PackagePath": "staticwebassets\\images\\employees\\220531823_your bby gurl_ on TikTok.jfif"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\images\\employees\\221450547human.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\221450547human.jpg"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\images\\employees\\222857526ava.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\222857526ava.jpg"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\images\\employees\\223358004Boy Boy Boy Juvenile, Male, Avatar, Cartoon PNG Transparent Clipart Image and PSD File for Free Download.jfif",
+      "PackagePath": "staticwebassets\\images\\employees\\223358004Boy Boy Boy Juvenile, Male, Avatar, Cartoon PNG Transparent Clipart Image and PSD File for Free Download.jfif"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\images\\employees\\223742330FTBGrqvUsAUnTGL.jfif",
+      "PackagePath": "staticwebassets\\images\\employees\\223742330FTBGrqvUsAUnTGL.jfif"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\images\\employees\\224107953human.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\224107953human.jpg"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\images\\employees\\224211143human.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\224211143human.jpg"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\images\\employees\\224244391human.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\224244391human.jpg"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\images\\employees\\224317294human.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\224317294human.jpg"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\images\\employees\\224349416human.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\224349416human.jpg"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\images\\employees\\224424672human.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\224424672human.jpg"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\images\\employees\\224517013human.jpg",
+      "PackagePath": "staticwebassets\\images\\employees\\224517013human.jpg"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\images\\employees\\Emp.gif",
+      "PackagePath": "staticwebassets\\images\\employees\\Emp.gif"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Nam hoc\\Nam 4 HK1\\Xây dựng phần mềm theo mô hình phân lớp\\Bài tập\\NguyenThiHoa-3119410133\\pay1193\\Pay1193\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Pay1193.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Pay1193.props",
+      "PackagePath": "build\\Pay1193.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Pay1193.props",
+      "PackagePath": "buildMultiTargeting\\Pay1193.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Pay1193.props",
+      "PackagePath": "buildTransitive\\Pay1193.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
